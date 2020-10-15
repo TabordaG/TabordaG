@@ -10,7 +10,7 @@
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-<img align="right" margin-right: "150px"; alt="GIF" src="https://media.giphy.com/media/IqfSEhYCb9pfz0fQiv/giphy.gif" />
+<img align="right" margin-right: "80px"; alt="GIF" src="https://media.giphy.com/media/IqfSEhYCb9pfz0fQiv/giphy.gif" />
 
 ### Gabriel H Taborda Moreira
 - Flutter developer.
@@ -19,4 +19,5 @@
 - Looking for opportunities and great projects.
 
 <br>
-<h2>Last project developed by the internship at Recoopsol. A complete ecommerce platform</h2>
+<h2>Last project developed by the internship at Recoopsol.
+An e-commerce platform for family farming</h2>
