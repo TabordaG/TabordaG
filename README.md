@@ -19,5 +19,5 @@
 - Looking for opportunities and great projects.
 
 <br>
-<h3>Last project developed by the internship at Recoopsol.
+<h3>Last project developed by the internship at Recoopsol.<br>
 An e-commerce platform for family farming</h3>
