@@ -21,3 +21,5 @@
 <br>
 <h3>🧔🏽📱 Last project developed by the internship at Recoopsol.<br>
 An e-commerce platform for family farming</h3>
+
+<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
