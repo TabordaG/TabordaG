@@ -18,4 +18,4 @@
 - Currently interning at Recoopsol with mobile development.
 - Looking for opportunities and great projects.
 
-##Last project developed by the internship at Recoopsol. A complete ecommerce platform
+##Last project developed by the internship at Recoopsol. A complete ecommerce platform <h2>
