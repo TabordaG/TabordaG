@@ -1,30 +1,19 @@
-### Hi, folks! 👋
+## Hi, folks! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!-- Actual text -->
+<a href="https://twitter.com/otapontopy">
+  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/tabordagm/">
+  <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ot%C3%A1vio-mendon%C3%A7a-694b75180/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/app-flutter-recoopsol-IqfSEhYCb9pfz0fQiv" />
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/m0reira_gabriel
-[2]: https://www.linkedin.com/in/gabriel-taborda-moreira/
-
-<!--
-**TabordaG/TabordaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Gabriel H Taborda Moreira
+- Flutter developer.
+- A Control and Automation Engineering Undergraduate Student. 
+- Currently interning at Recoopsol with mobile development.
+- Looking for opportunities and great projects.
