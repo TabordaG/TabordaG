@@ -12,8 +12,8 @@
 <br />
 <img align="right" margin: "auto" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### Gabriel H Taborda Moreira 🧔🏽📱
-- Flutter developer.
-- A Control and Automation Engineering Undergraduate Student. 
-- Currently interning at Recoopsol with mobile development.
-- Looking for opportunities and great projects.
+### 🧔🏽 Gabriel H Taborda Moreira
+- 📱 Flutter developer.
+- 🤖 A Control and Automation Engineering Undergraduate Student. 
+- 🔧 Currently interning at Recoopsol with mobile development.
+- 🌎 Looking for opportunities and great projects.
