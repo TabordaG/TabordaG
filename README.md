@@ -10,15 +10,10 @@
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-<img align="right" margin: "auto" alt="GIF" src="https://media.giphy.com/media/IqfSEhYCb9pfz0fQiv/giphy.gif" />
+<img align="right" margin: "auto" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-### Gabriel H Taborda Moreira
+### Gabriel H Taborda Moreira 🧔🏽📱
 - Flutter developer.
 - A Control and Automation Engineering Undergraduate Student. 
 - Currently interning at Recoopsol with mobile development.
 - Looking for opportunities and great projects.
-
-<h3>🧔🏽📱 Last project developed by the internship at Recoopsol.<br>
-An e-commerce platform for family farming</h3>
-
-<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
