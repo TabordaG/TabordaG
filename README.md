@@ -14,6 +14,6 @@
 
 ### 🧔🏽 Gabriel H Taborda Moreira
 - 📱 Flutter developer.
-- 🤖 A Control and Automation Engineering Undergraduate Student. 
+- 🤖 Control and Automation Engineering Undergraduate Student. 
 - 🔧 Currently interning at Recoopsol with mobile development.
 - 🌎 Looking for opportunities and great projects.
