@@ -15,5 +15,6 @@
 ### 🧔🏽 Gabriel H Taborda Moreira
 - 📱 Flutter developer.
 - 🤖 Control and Automation Engineer. 
-- 🔧 Currently interning at Osíris Agtech with mobile development.
+- 🔧 Currently working at Viddy as mobile developer.
 - 🌎 Looking for opportunities and great projects.
+- 🔒 Most projects here are private.
