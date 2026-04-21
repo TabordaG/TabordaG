@@ -13,8 +13,6 @@
 <img align="right" margin: "auto" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### 🧔🏽 Gabriel H Taborda Moreira
-- 📱 Flutter developer.
-- 🤖 Control and Automation Engineer. 
-- 🔧 Currently working at Viddy as mobile developer.
-- 🌎 Looking for opportunities and great projects.
-- 🔒 Most projects here are private.
+- 📱 Mobile developer.
+- 🤖 Control and Automation Engineer.
+- 🎓 Master's Student in Applied Computing.
